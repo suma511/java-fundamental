@@ -41,8 +41,5 @@ public class App {
         }
         return false;
     }
-    public static int containsDuplicates() {
-        
-    }
 
 }
